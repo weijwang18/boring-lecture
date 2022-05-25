@@ -2,14 +2,6 @@ body {
   text-align: center;
 }
 
-h2.intro {
+.intro {
   color: orange;
-}
-
-p.intro {
-  color: orange;
-}
-
-img.intro {
-  width: 300px;
 }
